@@ -1,0 +1,21 @@
+﻿#sit {
+background-color: black;
+width: 305px;
+height: 60px;
+margin-top: -27px;
+margin-left: -60px;
+}
+
+
+#obj1 {width: 760px; height:160px;}
+
+
+#obj2 {width: 250px; height:480px;margin-top: -240px;}
+
+
+#c1 {
+background-color: white;
+width: 240px;
+margin-left: -15px;
+overflow: hidden;
+}
